@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tutorial-algo-analysis/static/css/main.073c9b0a.css",
-    "main.js": "/tutorial-algo-analysis/static/js/main.dd3be445.js",
-    "static/js/787.5fa5c91b.chunk.js": "/tutorial-algo-analysis/static/js/787.5fa5c91b.chunk.js",
-    "static/media/logo.svg": "/tutorial-algo-analysis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/tutorial-algo-analysis/index.html",
-    "main.073c9b0a.css.map": "/tutorial-algo-analysis/static/css/main.073c9b0a.css.map",
-    "main.dd3be445.js.map": "/tutorial-algo-analysis/static/js/main.dd3be445.js.map",
-    "787.5fa5c91b.chunk.js.map": "/tutorial-algo-analysis/static/js/787.5fa5c91b.chunk.js.map"
+    "main.css": "/future-codebase/tutorial-algo-analysis/static/css/main.073c9b0a.css",
+    "main.js": "/future-codebase/tutorial-algo-analysis/static/js/main.aa4ad8fd.js",
+    "static/js/787.5fa5c91b.chunk.js": "/future-codebase/tutorial-algo-analysis/static/js/787.5fa5c91b.chunk.js",
+    "static/media/logo.svg": "/future-codebase/tutorial-algo-analysis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/future-codebase/tutorial-algo-analysis/index.html",
+    "main.073c9b0a.css.map": "/future-codebase/tutorial-algo-analysis/static/css/main.073c9b0a.css.map",
+    "main.aa4ad8fd.js.map": "/future-codebase/tutorial-algo-analysis/static/js/main.aa4ad8fd.js.map",
+    "787.5fa5c91b.chunk.js.map": "/future-codebase/tutorial-algo-analysis/static/js/787.5fa5c91b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.dd3be445.js"
+    "static/js/main.aa4ad8fd.js"
   ]
 }
