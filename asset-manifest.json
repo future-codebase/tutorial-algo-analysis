@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/tutorial-algo-analysis/static/css/main.fbefb22a.css",
-    "main.js": "/tutorial-algo-analysis/static/js/main.ee0ab40e.js",
-    "static/js/787.5fa5c91b.chunk.js": "/tutorial-algo-analysis/static/js/787.5fa5c91b.chunk.js",
+    "main.css": "/tutorial-algo-analysis/static/css/main.531ad88a.css",
+    "main.js": "/tutorial-algo-analysis/static/js/main.9046c0e8.js",
+    "static/media/BrandLogo.svg": "/tutorial-algo-analysis/static/media/BrandLogo.274b35c09cd41b0c57df5dccdfae8ed6.svg",
     "index.html": "/tutorial-algo-analysis/index.html",
-    "main.fbefb22a.css.map": "/tutorial-algo-analysis/static/css/main.fbefb22a.css.map",
-    "main.ee0ab40e.js.map": "/tutorial-algo-analysis/static/js/main.ee0ab40e.js.map",
-    "787.5fa5c91b.chunk.js.map": "/tutorial-algo-analysis/static/js/787.5fa5c91b.chunk.js.map"
+    "main.531ad88a.css.map": "/tutorial-algo-analysis/static/css/main.531ad88a.css.map",
+    "main.9046c0e8.js.map": "/tutorial-algo-analysis/static/js/main.9046c0e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbefb22a.css",
-    "static/js/main.ee0ab40e.js"
+    "static/css/main.531ad88a.css",
+    "static/js/main.9046c0e8.js"
   ]
 }
