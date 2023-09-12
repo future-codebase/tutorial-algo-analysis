@@ -5,7 +5,7 @@ import CONTENT from '../Database/Data';
 
 const Item = (props) => {
   const { page } = props;
-  if (page === "Introduction") {
+  if (page === "/") {
     return (
 
         <>
@@ -23,18 +23,20 @@ const Item = (props) => {
     
 
     )
-  } else {
-    return (
-      <div id="page">
-        <Link to="/">
-          <button className="btn">
-            <ArrowBackIcon /> Back to Home
-          </button>
-        </Link>
-        {page}
-      </div>
-    );
-  }
+
+         }
+  // } else {
+  //   return (
+  //     <div id="page">
+  //       <Link to="/">
+  //         <button className="btn">
+  //           <ArrowBackIcon /> Back to Home
+  //         </button>
+  //       </Link>
+  //       {page}
+  //     </div>
+  //   );
+  // }
 };
 
 export default Item;

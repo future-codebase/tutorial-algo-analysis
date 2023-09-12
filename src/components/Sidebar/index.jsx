@@ -42,7 +42,7 @@ export default function Sidebar({ children }) {
                 displaySidebar={displaySidebar}
                 className="app__brand__text"
               >
-                Frest
+                Algo
               </SidebarBrand>
             </SidebarLogo>
             {/* Logo wrapper ends */}
