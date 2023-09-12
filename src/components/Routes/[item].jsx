@@ -1,10 +1,28 @@
 import { Link } from "react-router-dom";
 import { ArrowBackIcon } from "../Icons";
 
+import CONTENT from '../Database/Data';
+
 const Item = (props) => {
   const { page } = props;
-  if (page === "homepage") {
-    return <div id="page">{page}</div>;
+  if (page === "Introduction") {
+    return (
+
+        <>
+         <div id="page">
+         {CONTENT.map((item, index) => (
+        <div key={index}>
+          <h6>{item.title}</h6>
+   
+        <h4>{item.heading}</h4>
+        </div>
+      ))}
+       </div>
+        </>
+    
+    
+
+    )
   } else {
     return (
       <div id="page">

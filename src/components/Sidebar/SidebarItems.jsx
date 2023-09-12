@@ -18,7 +18,7 @@ const SidebarItems = ({ displaySidebar }) => {
         <ItemContainer
           key={index}
           onClick={() => setActiveItem(itemData.id)}
-          {/* Adding active class when the user clicks */}
+        
           className={itemData.id === activeItem ? "active" : ""}
         >
           <Link to={itemData.path}>

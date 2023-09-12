@@ -10,7 +10,7 @@ import {
   SidebarBrand,
   SidebarToggler,
 } from "./SidebarStyles";
-import BrandLogo from "./BrandLogo.svg";
+import BrandLogo from "../BrandLogo.svg";
 
 import { SidebarItems } from "..";
 
