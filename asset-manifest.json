@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tutorial-algo-analysis/static/css/main.531ad88a.css",
-    "main.js": "/tutorial-algo-analysis/static/js/main.cc066248.js",
+    "main.js": "/tutorial-algo-analysis/static/js/main.a0de23ef.js",
     "static/media/BrandLogo.svg": "/tutorial-algo-analysis/static/media/BrandLogo.274b35c09cd41b0c57df5dccdfae8ed6.svg",
     "index.html": "/tutorial-algo-analysis/index.html",
     "main.531ad88a.css.map": "/tutorial-algo-analysis/static/css/main.531ad88a.css.map",
-    "main.cc066248.js.map": "/tutorial-algo-analysis/static/js/main.cc066248.js.map"
+    "main.a0de23ef.js.map": "/tutorial-algo-analysis/static/js/main.a0de23ef.js.map"
   },
   "entrypoints": [
     "static/css/main.531ad88a.css",
-    "static/js/main.cc066248.js"
+    "static/js/main.a0de23ef.js"
   ]
 }
