@@ -8,7 +8,7 @@ function App() {
     <div id="main">
       <Sidebar>
         <Routes>
-          <Route path="/" element={<DynamicItem page="homepage" />} />
+          <Route path="tutorial-algo-analysis/" element={<DynamicItem page="homepage" />} />
           {dummyData &&
             dummyData.map((item, index) => (
               <Route

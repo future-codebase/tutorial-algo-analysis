@@ -13,7 +13,6 @@ const Item = (props) => {
          {CONTENT.map((item, index) => (
         <div key={index}>
           <h6>{item.title}</h6>
-   
         <h4>{item.heading}</h4>
         </div>
       ))}
